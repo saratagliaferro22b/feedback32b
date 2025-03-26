@@ -1,7 +1,12 @@
-export function App() {
+import iconStar from "./assets/icon-Star.jpg.svg"
+
+function App () {
   return (
-    <div>
-      <h1>Hello</h1>
+  <div className="bg-gradiente" >
+      <div>
+  
+
+      </div>
     </div>
   )
 }
